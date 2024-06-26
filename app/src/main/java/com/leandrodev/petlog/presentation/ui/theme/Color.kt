@@ -1,4 +1,4 @@
-package com.leandrodev.petlog.ui.theme
+package com.leandrodev.petlog.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
